@@ -1,6 +1,6 @@
 # Car MP3 Infrared (IR) Remote Control
 
-<img src="car-mp3.png" alt="Car MP3 Remote Control" width="500">
+![Car MP3 Remote Control](car-mp3.png)
 
 ## Description
 
